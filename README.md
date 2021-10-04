@@ -3,7 +3,7 @@
 
 <b>Deliverables/Requirements:</b>
 
-Create a page with a list of site users and the total (summed) amount of their points. Be able to add points to users. Users can have multiple points assigned. The max amount of points that can be assigned in a single "transaction" is 100. The maximum points a user can have is 500. Points expire 1 month after creation. Feature test that loads the page, submits points for a user, and confirms saving to database.
+Create a page with a list of site users and the total (summed) amount of their points. Be able to add points to users. Users can have multiple points assigned. The max amount of points that can be assigned in a single "transaction" is 100. The maximum points a user can have is 500. Points expire 3 month after creation. Feature test that loads the page, submits points for a user, and confirms saving to database.
 
 <b>Notes:</b>
 
