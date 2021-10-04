@@ -13,6 +13,7 @@ Feature test that loads the page, submits points for a user, and confirms saving
 Notes:
 
 Authorization (e.g. roles/permissions/policies) are not needed.
+Server-side validation are not needed.
 Tests beyond the above requirements are not expected.
 Front end is up to you. Does not need to be reactive, but UI/UX should work.
 Please limit your time to about two hours. If certain requirements are unable to be met within that time frame, simply document them.
